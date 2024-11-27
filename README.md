@@ -3,10 +3,10 @@
 
 <!---
 <h1 align="center">           Hi 👋, I'm Abbou Lamis Nesrine</h1>
-<h3 align="center">ِCS student from Algeria</h3>
+<h3 align="center">A flutter developer from Algeria</h3>
 --->
 ### 💫 About Me:
-👀 I’m interested in cyber security<br>🌱 I’m currently learning Python,Flutter<br>⚡ Fun fact: I believe I can make things smooth and quick.<br>
+🌱 I’m currently learning Python,Flutter<br>⚡ Fun fact: I believe I can make things smooth and quick.<br>
 📫 How to reach me **lami39564@gmail.com**
 ### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/brushandpaint2023) 
